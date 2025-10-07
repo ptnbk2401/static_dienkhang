@@ -1,0 +1,80 @@
+# Cloudflare Pages Redirects for SEO preservation
+# Laravel routes -> Static HTML files
+
+# Main pages
+/home /index.html 200
+/trang-chu /index.html 200
+
+# Product categories (danh-muc)
+/danh-muc/chat-phu-tro-nong-nghiep /danh-muc/chat-phu-tro-nong-nghiep-9.html 200
+/danh-muc/chat-phu-tro-nong-nghiep /danh-muc/chat-phu-tro-nong-nghiep-920bc.html 200
+/danh-muc/chat-phu-tro-nong-nghiep /danh-muc/chat-phu-tro-nong-nghiep-93bf4.html 200
+/danh-muc/dinh-duong /danh-muc/dinh-duong-6.html 200
+/danh-muc/dinh-duong /danh-muc/dinh-duong-620bc.html 200
+/danh-muc/dinh-duong /danh-muc/dinh-duong-63bf4.html 200
+/danh-muc/giong-lua /danh-muc/giong-lua-12.html 200
+/danh-muc/giong-lua /danh-muc/giong-lua-1220bc.html 200
+/danh-muc/giong-lua /danh-muc/giong-lua-123bf4.html 200
+/danh-muc/giong-ngo /danh-muc/giong-ngo-11.html 200
+/danh-muc/giong-ngo /danh-muc/giong-ngo-1120bc.html 200
+/danh-muc/giong-ngo /danh-muc/giong-ngo-113bf4.html 200
+/danh-muc/giong-rau /danh-muc/giong-rau-13.html 200
+/danh-muc/giong-rau /danh-muc/giong-rau-1320bc.html 200
+/danh-muc/giong-rau /danh-muc/giong-rau-133bf4.html 200
+/danh-muc/hat-giong /danh-muc/hat-giong-10.html 200
+/danh-muc/hat-giong /danh-muc/hat-giong-1020bc.html 200
+/danh-muc/hat-giong /danh-muc/hat-giong-103bf4.html 200
+/danh-muc/kich-thich-sinh-truong /danh-muc/kich-thich-sinh-truong-8.html 200
+/danh-muc/kich-thich-sinh-truong /danh-muc/kich-thich-sinh-truong-820bc.html 200
+/danh-muc/kich-thich-sinh-truong /danh-muc/kich-thich-sinh-truong-83bf4.html 200
+/danh-muc/phan-bon-la /danh-muc/phan-bon-la-7.html 200
+/danh-muc/phan-bon-la /danh-muc/phan-bon-la-720bc.html 200
+/danh-muc/phan-bon-la /danh-muc/phan-bon-la-73bf4.html 200
+/danh-muc/rau-sach /danh-muc/rau-sach-15.html 200
+/danh-muc/rau-sach /danh-muc/rau-sach-1520bc.html 200
+/danh-muc/rau-sach /danh-muc/rau-sach-153bf4.html 200
+/danh-muc/rau-san-thuong /danh-muc/rau-san-thuong-14.html 200
+/danh-muc/rau-san-thuong /danh-muc/rau-san-thuong-1420bc.html 200
+/danh-muc/rau-san-thuong /danh-muc/rau-san-thuong-143bf4.html 200
+/danh-muc/thuoc-bao-ve-thuc-vat /danh-muc/thuoc-bao-ve-thuc-vat-1.html 200
+/danh-muc/thuoc-bao-ve-thuc-vat /danh-muc/thuoc-bao-ve-thuc-vat-120bc.html 200
+/danh-muc/thuoc-bao-ve-thuc-vat /danh-muc/thuoc-bao-ve-thuc-vat-13bf4.html 200
+/danh-muc/thuoc-bao-ve-thuc-vat /danh-muc/thuoc-bao-ve-thuc-vat-18df5.html 200
+/danh-muc/thuoc-bao-ve-thuc-vat /danh-muc/thuoc-bao-ve-thuc-vat-1a030.html 200
+/danh-muc/thuoc-co /danh-muc/thuoc-co-3.html 200
+/danh-muc/thuoc-co /danh-muc/thuoc-co-320bc.html 200
+/danh-muc/thuoc-co /danh-muc/thuoc-co-33bf4.html 200
+/danh-muc/thuoc-diet-chuot-con-trung /danh-muc/thuoc-diet-chuot-con-trung-16.html 200
+/danh-muc/thuoc-diet-chuot-con-trung /danh-muc/thuoc-diet-chuot-con-trung-1620bc.html 200
+/danh-muc/thuoc-diet-chuot-con-trung /danh-muc/thuoc-diet-chuot-con-trung-163bf4.html 200
+/danh-muc/thuoc-tru-benh /danh-muc/thuoc-tru-benh-4.html 200
+/danh-muc/thuoc-tru-benh /danh-muc/thuoc-tru-benh-420bc.html 200
+/danh-muc/thuoc-tru-benh /danh-muc/thuoc-tru-benh-43bf4.html 200
+/danh-muc/thuoc-tru-sau /danh-muc/thuoc-tru-sau-2.html 200
+/danh-muc/thuoc-tru-sau /danh-muc/thuoc-tru-sau-220bc.html 200
+/danh-muc/thuoc-tru-sau /danh-muc/thuoc-tru-sau-23bf4.html 200
+/danh-muc/thuoc-tru-sau /danh-muc/thuoc-tru-sau-28df5.html 200
+/danh-muc/thuoc-tru-vi-khuan /danh-muc/thuoc-tru-vi-khuan-5.html 200
+/danh-muc/thuoc-tru-vi-khuan /danh-muc/thuoc-tru-vi-khuan-520bc.html 200
+/danh-muc/thuoc-tru-vi-khuan /danh-muc/thuoc-tru-vi-khuan-53bf4.html 200
+
+# Articles (bai-viet)
+/bai-viet/* /bai-viet/:splat.html 200
+
+# Products (san-pham)
+/san-pham/* /san-pham/:splat.html 200
+
+# Info pages
+/thong-tin/chinh-sach /thong-tin/chinh-sach.html 200
+/thong-tin/lien-he /thong-tin/lien-he.html 200
+/thong-tin/mang-xa-hoi /thong-tin/mang-xa-hoi.html 200
+/thong-tin/ve-chung-toi /thong-tin/ve-chung-toi.html 200
+
+# Common pages
+/lien-he /lien-he.html 200
+/contact /lien-he.html 200
+/gio-hang /gio-hang.html 200
+/cart /gio-hang.html 200
+
+# Fallback for any other routes
+/* /index.html 404

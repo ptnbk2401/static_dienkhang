@@ -1,0 +1,25 @@
+# Apache redirects for SEO preservation
+RewriteEngine On
+
+# Main pages
+RewriteRule ^home/?$ /index.html [R=301,L]
+RewriteRule ^trang-chu/?$ /index.html [R=301,L]
+
+# Categories
+RewriteRule ^danh-muc/([^/]+)/?$ /danh-muc/$1.html [R=301,L]
+
+# Articles and Products
+RewriteRule ^bai-viet/([^/]+)/?$ /bai-viet/$1.html [R=301,L]
+RewriteRule ^san-pham/([^/]+)/?$ /san-pham/$1.html [R=301,L]
+
+# Info pages
+RewriteRule ^thong-tin/([^/]+)/?$ /thong-tin/$1.html [R=301,L]
+
+# Common pages
+RewriteRule ^lien-he/?$ /lien-he.html [R=301,L]
+RewriteRule ^contact/?$ /lien-he.html [R=301,L]
+
+# Remove .html extension from URLs (optional)
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^.]+)$ $1.html [L]
