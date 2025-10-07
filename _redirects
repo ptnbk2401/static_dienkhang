@@ -76,11 +76,7 @@
 /danh-muc-bai-viet/su-kien /danh-muc-bai-viet/su-kien-2.html 200
 /danh-muc-bai-viet/cong-dong /danh-muc-bai-viet/cong-dong-3.html 200
 
-# Thong tin pages
-/thong-tin/ve-chung-toi /thong-tin/ve-chung-toi.html 200
-/thong-tin/chinh-sach /thong-tin/chinh-sach.html 200
-/thong-tin/lien-he /thong-tin/lien-he.html 200
-/thong-tin/mang-xa-hoi /thong-tin/mang-xa-hoi.html 200
+# Thong tin pages handled by Functions - no redirects needed
 
 # Fallback for any other routes
 /* /index.html 404
