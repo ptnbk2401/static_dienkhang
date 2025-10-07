@@ -61,28 +61,7 @@
 # Articles (bai-viet)
 /bai-viet/* /bai-viet/:splat.html 200
 
-# Products (san-pham) - specific redirects to avoid loops
-/san-pham/ray-ridup-35wg-15 /san-pham/ray-ridup-35wg-15.html 200
-/san-pham/citeen-gold-415sc-13 /san-pham/citeen-gold-415sc-13.html 200
-/san-pham/com-24d-34 /san-pham/com-24d-34.html 200
-/san-pham/lunar-super-500wp-12 /san-pham/lunar-super-500wp-12.html 200
-/san-pham/ray-cu-dam-thep-350wp-16 /san-pham/ray-cu-dam-thep-350wp-16.html 200
-/san-pham/super-oshin-350wp-18 /san-pham/super-oshin-350wp-18.html 200
-/san-pham/oshin-plus-350wp-17 /san-pham/oshin-plus-350wp-17.html 200
-/san-pham/new-feno-500ec-22 /san-pham/new-feno-500ec-22.html 200
-/san-pham/vua-ray-500wg-21 /san-pham/vua-ray-500wg-21.html 200
-/san-pham/sach-nhen---bo-tri-35 /san-pham/sach-nhen---bo-tri-35.html 200
-/san-pham/chuot-hicate-025wp-30 /san-pham/chuot-hicate-025wp-30.html 200
-/san-pham/mancozeb-xanh-80wp-14 /san-pham/mancozeb-xanh-80wp-14.html 200
-/san-pham/sieu-tro-luc-33 /san-pham/sieu-tro-luc-33.html 200
-/san-pham/diet-nhen-than-toc-15sc-24 /san-pham/diet-nhen-than-toc-15sc-24.html 200
-/san-pham/gibow-200tb-28 /san-pham/gibow-200tb-28.html 200
-/san-pham/gibow-200-tb-29 /san-pham/gibow-200-tb-29.html 200
-/san-pham/cap-doi-diet-nhen-sc-25 /san-pham/cap-doi-diet-nhen-sc-25.html 200
-/san-pham/ray-vua-check-700wp-20 /san-pham/ray-vua-check-700wp-20.html 200
-/san-pham/thuoc-muoi-icon-syngenta-32 /san-pham/thuoc-muoi-icon-syngenta-32.html 200
-/san-pham/new-fago-5dp-31 /san-pham/new-fago-5dp-31.html 200
-/san-pham/pyravil-5sc-23 /san-pham/pyravil-5sc-23.html 200
+# Products handled by Functions - no redirects needed
 
 # Info pages
 /thong-tin/chinh-sach /thong-tin/chinh-sach.html 200
