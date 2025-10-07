@@ -61,7 +61,7 @@
 # Articles (bai-viet)
 /bai-viet/* /bai-viet/:splat.html 200
 
-# Products (san-pham) - specific redirects first
+# Products (san-pham) - specific redirects to avoid loops
 /san-pham/ray-ridup-35wg-15 /san-pham/ray-ridup-35wg-15.html 200
 /san-pham/citeen-gold-415sc-13 /san-pham/citeen-gold-415sc-13.html 200
 /san-pham/com-24d-34 /san-pham/com-24d-34.html 200
@@ -83,9 +83,6 @@
 /san-pham/thuoc-muoi-icon-syngenta-32 /san-pham/thuoc-muoi-icon-syngenta-32.html 200
 /san-pham/new-fago-5dp-31 /san-pham/new-fago-5dp-31.html 200
 /san-pham/pyravil-5sc-23 /san-pham/pyravil-5sc-23.html 200
-
-# Products fallback
-/san-pham/* /san-pham/:splat.html 200
 
 # Info pages
 /thong-tin/chinh-sach /thong-tin/chinh-sach.html 200
