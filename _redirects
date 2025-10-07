@@ -68,10 +68,7 @@
 
 # Articles, Products, and Info pages handled by Functions - no redirects needed
 
-# San pham noi bat
-/san-pham-noi-bat/moi-nhat /san-pham-noi-bat/moi-nhat.html 200
-/san-pham-noi-bat/ban-chay /san-pham-noi-bat/ban-chay.html 200
-/san-pham-noi-bat/khuyen-mai /san-pham-noi-bat/khuyen-mai.html 200
+# San pham noi bat handled by Functions - no redirects needed
 
 # Danh muc bai viet
 /danh-muc-bai-viet/khoa-hoc-cay-trong /danh-muc-bai-viet/khoa-hoc-cay-trong-1.html 200
