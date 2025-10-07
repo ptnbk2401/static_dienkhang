@@ -59,10 +59,12 @@
 /danh-muc/thuoc-tru-vi-khuan /danh-muc/thuoc-tru-vi-khuan-53bf4.html 200
 
 # Common pages (static files)
-/lien-he /lien-he.html 200
-/contact /lien-he.html 200
 /gio-hang /gio-hang.html 200
 /cart /gio-hang.html 200
+
+# Redirect lien-he to thong-tin/lien-he
+/lien-he /thong-tin/lien-he 301
+/contact /thong-tin/lien-he 301
 
 # Articles, Products, and Info pages handled by Functions - no redirects needed
 
