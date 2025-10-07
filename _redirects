@@ -72,5 +72,16 @@
 /san-pham-noi-bat/ban-chay /san-pham-noi-bat/ban-chay.html 200
 /san-pham-noi-bat/khuyen-mai /san-pham-noi-bat/khuyen-mai.html 200
 
+# Danh muc bai viet
+/danh-muc-bai-viet/khoa-hoc-cay-trong /danh-muc-bai-viet/khoa-hoc-cay-trong-1.html 200
+/danh-muc-bai-viet/su-kien /danh-muc-bai-viet/su-kien-2.html 200
+/danh-muc-bai-viet/cong-dong /danh-muc-bai-viet/cong-dong-3.html 200
+
+# Thong tin pages
+/thong-tin/ve-chung-toi /thong-tin/ve-chung-toi.html 200
+/thong-tin/chinh-sach /thong-tin/chinh-sach.html 200
+/thong-tin/lien-he /thong-tin/lien-he.html 200
+/thong-tin/mang-xa-hoi /thong-tin/mang-xa-hoi.html 200
+
 # Fallback for any other routes
 /* /index.html 404
