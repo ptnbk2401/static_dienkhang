@@ -58,16 +58,7 @@
 /danh-muc/thuoc-tru-vi-khuan /danh-muc/thuoc-tru-vi-khuan-520bc.html 200
 /danh-muc/thuoc-tru-vi-khuan /danh-muc/thuoc-tru-vi-khuan-53bf4.html 200
 
-# Articles (bai-viet)
-/bai-viet/* /bai-viet/:splat.html 200
-
-# Products handled by Functions - no redirects needed
-
-# Info pages
-/thong-tin/chinh-sach /thong-tin/chinh-sach.html 200
-/thong-tin/lien-he /thong-tin/lien-he.html 200
-/thong-tin/mang-xa-hoi /thong-tin/mang-xa-hoi.html 200
-/thong-tin/ve-chung-toi /thong-tin/ve-chung-toi.html 200
+# Articles, Products, and Info pages handled by Functions - no redirects needed
 
 # Common pages
 /lien-he /lien-he.html 200
